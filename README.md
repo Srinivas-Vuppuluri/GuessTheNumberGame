@@ -3,7 +3,7 @@ Welcome to the "Guess the Number" game! This simple Python console game challeng
 
 ## How to Play
 
-Clone the repository to your local machine:
+Clone the repository:
 
    ```bash
-   git clone [https://github.com/Srinivas-Vuppuluri/GuessTheNumberGame]
+   github link: [https://github.com/Srinivas-Vuppuluri/GuessTheNumberGame]
